@@ -1,0 +1,9 @@
+{
+    "gitAutoCommit.enable": true,
+    "gitAutoCommit.message": "🔄 自动同步: {date} {time}",
+    "gitAutoCommit.filePattern": ["**/*.html", "IMG/**/*.jpg", "IMG/**/*.png"],
+    "gitAutoCommit.autoPush": true,
+    "gitAutoCommit.debounce": 1000,
+    "gitlens.views.pullRequests.showForCommits": true,
+    "gitlens.hovers.currentLine.over": "line"
+  }
